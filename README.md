@@ -1,8 +1,8 @@
 # SortingVisualization
  I made visualizations for some well-known sorting algorithms
 
-#Insertion Sort
+# Insertion Sort
 ![insertion](insertion.gif)
 
-#Selection Sort
+# Selection Sort
 ![selection](selection.gif)
