@@ -4,7 +4,7 @@
  2. [Selection Sort](../master/README.md#selection-sort)
 
 ## Insertion Sort
-![insertion](insertion.gif)
+![insertion](assets/insertion.gif)
 
 ## Selection Sort
-![selection](selection.gif)
+![selection](assets/selection.gif)
